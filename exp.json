@@ -1,0 +1,32 @@
+{
+  "name": "React Native Exponent seed",
+  "description": "Seed project to start a React Native + Exponent application",
+  "slug": "react-native-exponent-seed",
+  "privacy": "public",
+  "sdkVersion": "14.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#3A4767",
+  "icon": "https://s13.postimg.org/wflosfalj/logo.png",
+  "notification": {
+    "icon": "https://s13.postimg.org/wflosfalj/logo.png",
+    "color": "#000000",
+    "androidMode": "default",
+    "androidCollapsedTitle": "#{unread_notifications} new interactions"
+  },
+  "loading": {
+    "icon": "https://s13.postimg.org/wflosfalj/logo.png",
+    "backgroundImage": "http://i.imgur.com/zsnPy5z.png",
+    "backgroundColor": "#FFF",
+    "hideExponentText": true
+  },
+  "appKey": "main",
+  "androidStatusBarColor": "#000000",
+  "androidHideExponentNotificationInShellApp": true,
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true
+  }
+}
