@@ -1,6 +1,6 @@
 {
   "name": "React Native Exponent seed",
-  "description": "Seed project to start a React Native + Exponent application",
+  "description": "Seed project to start a React Native application using Exponent",
   "slug": "react-native-exponent-seed",
   "privacy": "public",
   "sdkVersion": "14.0.0",

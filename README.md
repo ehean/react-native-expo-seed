@@ -1,4 +1,4 @@
-# React Native + Exponent seed application
+# React Native seed application using Exponent
 
 Basic project to start developing your own mobile app using React Native and Exponent.
 
