@@ -4,7 +4,7 @@ Basic project to start developing your own mobile app using React Native and Exp
 
 https://exp.host/@test123/react-native-exponent-seed
 
-![exponent readme image](https://cloud.githubusercontent.com/assets/872296/20684654/b5365d84-b58f-11e6-8564-eea0531a2bb1.png)
+![exponent readme image](http://i.imgur.com/Ec9fOnM.png)
 
 ## Install Guide
 
