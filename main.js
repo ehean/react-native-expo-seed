@@ -1,4 +1,4 @@
-import Exponent from 'exponent';
+import Expo from 'expo';
 import React from 'react';
 import MainStackNavigator from './navigators/MainStackNavigator';
 
@@ -10,4 +10,4 @@ class App extends React.Component {
   }
 }
 
-Exponent.registerRootComponent(App);
+Expo.registerRootComponent(App);
