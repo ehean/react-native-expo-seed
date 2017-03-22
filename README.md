@@ -1,27 +1,27 @@
-# React Native seed application using Exponent
+# React Native seed application using Expo
 
-Basic project to start developing your own mobile app using React Native and Exponent.
+Basic project to start developing your own mobile app using React Native and Expo.
 
-https://exp.host/@test123/react-native-exponent-seed
+https://exp.host/@rmotr/react-native-expo-seed
 
 ![exponent readme image](http://i.imgur.com/Z0vAnDS.png)
 
 ## Install Guide
 
-##### Install Exponent CLI Client:
+##### Install Expo CLI Client:
 _(https://www.npmjs.com/package/exp)_
 
 ```sh
 $ npm install -g exp
 ```
 
-##### Signup for an Exponent account:
+##### Signup for an Expo account:
 
 ```sh
 $ exp signup
 ```
 
-##### Login to exponent:
+##### Login to Expo:
 
 ```sh
 $ exp login
@@ -31,13 +31,13 @@ $ exp w  # who am I?
 ##### Clone this repo
 
 ```sh
-$ git clone https://github.com/rmotr/react-native-exponent-seed.git
+$ git clone https://github.com/rmotr/react-native-expo-seed.git
 ```
 
 ##### Install dependencies:
 
 ```sh
-$ cd react-native-exponent-seed
+$ cd react-native-expo-seed
 $ npm install -d
 ```
 
@@ -105,3 +105,8 @@ Once it's created, start it from Genymotion:
 First you'll have to install XCode (if not previously installed). The easiest way to do it is through itunes: [https://itunes.apple.com/app/xcode/id497799835](https://itunes.apple.com/app/xcode/id49779983). It'll take a while, go have a nap. Next, open up Xcode, go to _preferences_ and click the _Components_ tab, install a simulator from the list:
 
 ![Simulator List](https://docs.getexponent.com/_static/img/xcode-simulator.png)
+
+---
+<p align="center">
+  <img src="http://i.imgur.com/JEIGdC6.png">
+</p>

@@ -1,7 +1,7 @@
 {
-  "name": "react-native-exponent-seed",
+  "name": "react-native-expo-seed",
   "version": "0.0.0",
-  "description": "Seed project to start a React Native application using Exponent",
+  "description": "Seed project to start a React Native application using Expo",
   "author": null,
   "private": true,
   "main": "main.js",
