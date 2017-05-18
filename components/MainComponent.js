@@ -1,5 +1,7 @@
 import React, { PropTypes } from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
+import { Ionicons } from '@expo/vector-icons';
+import Colors from '../constants/Colors';
 
 class MainComponent extends React.Component {
   render() {
@@ -14,6 +16,12 @@ class MainComponent extends React.Component {
         <Text style={styles.text}>
           {this.props.text}
         </Text>
+
+        <Ionicons
+          name="md-checkmark-circle"
+          size={32}
+          color="green"
+        />
       </View>
     );
   }
@@ -36,7 +44,11 @@ const styles = StyleSheet.create({
   },
 
   text: {
-    color: '#242134',
+    color: Colors.base,
+    fontSize: 18,
+    fontStyle: 'italic',
+    fontWeight: '300',
+    textAlign: 'center',
     padding: 15,
   },
 });

@@ -17,12 +17,10 @@ class MainScreen extends React.Component {
 }
 
 MainScreen.navigationOptions = {
-  title: 'My first application',
-  header: {
-    tintColor: '#FFF',
-    style: {
-      backgroundColor: Colors.rmotrB,
-    },
+  title: 'Seed project',
+  headerTintColor: '#FFF',
+  headerStyle: {
+    backgroundColor: Colors.base,
   },
 };
 

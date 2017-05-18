@@ -3,7 +3,7 @@
   "description": "Seed project to start a React Native application using Expo",
   "slug": "react-native-expo-seed",
   "privacy": "public",
-  "sdkVersion": "15.0.0",
+  "sdkVersion": "17.0.0",
   "version": "1.0.0",
   "orientation": "portrait",
   "primaryColor": "#3A4767",
